@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          MOBA리액트 연결 성공!
+          리액트 대체 어케 해야하죠... 좀 공부좀 하고 실행할께요...
         </p>
         <a
           className="App-link"
